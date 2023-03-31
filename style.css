@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(211, 211, 211);
+    font-size: 16px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bolder;
+    word-spacing: 2;
+    color: rgb(80, 1, 113);
+    text-align: center;
+    font-size: 3rem;
+}
+
+.imagecaption {
+    color:rgb(80, 1, 113);
+    font-size: 1.5 rem;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
